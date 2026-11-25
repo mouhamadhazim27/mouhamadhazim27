@@ -8,6 +8,42 @@ I specialize in backend development with PHP and Laravel, alongside modern front
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" width="45" alt="Redis"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+</p>
+
+
 ## Technical Skills
 
 **Backend Development**
@@ -89,5 +125,31 @@ A personal portfolio built with Laravel, featuring an administration dashboard a
 - **Email:** [mouhamadhazim27@gmail.com](mailto:mouhamadhazim27@gmail.com)
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mouhamadhazim27&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamadhazim27&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mouhamadhazim27&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
 
 *Building things that matter.*
